@@ -38,3 +38,5 @@ Finally, it's important to note that casual users (customers) don't appear to di
 
 ## Summary
 Male users taking short trips to and from work appear to get the most out of New York City's bikeshare program -- at least during the time period analyzed here, August of 2018. It would be helpful to extend this analysis to different months of the year. A heatmap of checkout times by weekday during a different season -- say, October or February, might suggest ways to keep the program viable during months in which usage dies down. Additionally, a deeper analysis of female and non-identiying users could help a theoretical bikeshare company figure out ways to bring them into the fold as customers more frequently. It would be interesting to see if they tend to check out bikes around particular parts of the city by creating a histogram of their most commonly-used start and end stations, or if their usage in particular fluctuates over the course of the year with a line graph of data for the entirety of the year showing number of rides per month.
+
+[link to story](https://public.tableau.com/app/profile/am5877/viz/Module14--CitiBikeStory/Story1?publish=yes)
